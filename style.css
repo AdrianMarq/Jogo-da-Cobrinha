@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+
+body{
+    background-color: aquamarine;
+}
+.classe{
+    padding: 5px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;   
+}
+
+h1 , h3 {
+    padding: 5px;
+    margin: 5px;
+}
